@@ -1,0 +1,18 @@
+@media (min-width: 300px) {
+  #headerWrap {
+    margin-top: 25px;
+  }
+}
+
+@media (min-width: 992px) {
+  #headerWrap {
+    margin-top: 110px;
+  }
+}
+
+body {
+  background-image: url("../../assets/img/mountain_bg.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
